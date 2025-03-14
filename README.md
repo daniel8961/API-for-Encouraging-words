@@ -18,12 +18,12 @@ https://api-of-list-of-encouraging-words.onrender.com
 
 ## 🛠 How to Use
 
-### **1️⃣ Fetch a Ranndom Message**
+### **1️⃣ Fetch a Random Message**
 ```sh
 curl -X GET https://api-of-list-of-encouraging-words.onrender.com/random
+```
 
-
-### **2️⃣etch aAll Messages***
+### **2️⃣ Fetch All Messages**
 ```sh
 curl -X GET https://api-of-list-of-encouraging-words.onrender.com/all
-
+```
