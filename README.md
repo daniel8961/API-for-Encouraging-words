@@ -22,7 +22,8 @@ https://api-of-list-of-encouraging-words.onrender.com
 ```sh
 curl -X GET https://api-of-list-of-encouraging-words.onrender.com/random
 
-### **1️⃣ Fetch aAll Messages***
+
+### **2️⃣etch aAll Messages***
 ```sh
 curl -X GET https://api-of-list-of-encouraging-words.onrender.com/all
 
