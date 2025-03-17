@@ -43,7 +43,7 @@ const sentences = [
 // API Routes
 app.get("/random", (req, res) => {
     const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
-    res.json({ message: randomSentence });
+    res.json({ messages: randomSentence });
 });
 
 app.get("/all", (req, res) => {
