@@ -37,7 +37,27 @@ const sentences = [
     "Think less, do more.",
     "Nobody’s judging you as hard as you think.",
     "The best way to predict the future is to create it.",
-    "Stop planning. Start doing."
+    "Stop planning. Start doing.",
+    "Distraction is a trap—your goals deserve better.",
+    "Your work won’t do itself. Get up and make it happen.",
+    "Future you will thank you for the effort you put in today.",
+    "Scrolling won’t get you closer to your dreams—action will.",
+    "If it’s important to you, act like it.",
+    "Discipline now means freedom later.",
+    "Procrastination steals your time, but you can take it back.",
+    "The hardest part is starting—after that, it gets easier.",
+    "You don’t need to feel like it. You just need to do it.",
+    "Be the kind of person who follows through.",
+    "A few hours of focused work can change your entire week.",
+    "Imagine how unstoppable you’d be if you stopped making excuses.",
+    "The longer you wait, the harder it gets. Just begin.",
+    "Get comfortable being uncomfortable—that’s where growth happens.",
+    "You already know what you need to do. Now, go do it.",
+    "Winning the day starts with winning this moment.",
+    "You owe it to yourself to stay focused.",
+    "You can rest when the work is done.",
+    "Every moment you waste is a moment you’ll never get back.",
+    "You’re building your future right now—make it count."
 ];
 
 // API Routes
